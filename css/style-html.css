@@ -1,0 +1,71 @@
+.nav
+{
+display: flex;
+list-style-type: none;
+}
+
+.nav li a:hover
+{
+color: white;
+background-color: silver;
+border-radius: 360px;
+text-decoration: none;
+padding: 2px;
+}
+.nav li a
+{
+text-decoration: none;
+color: white;
+}
+.contain
+{
+	justify-content: center;
+}
+.div
+{
+	margin: 0 auto;
+	width: 1000px;
+	border: solid 3px black;
+}
+.header .nav .content .footer .contain
+{
+	width: 1000px;
+	border: solid 3px black;
+}
+.contain
+{
+	width: 1000px;
+	margin: 0 auto;
+}
+.nav
+{
+	background-color: #5599bb;
+
+}
+.header
+{
+	height: 100px;
+}
+.nav
+{
+	height: 25px;
+}
+.nav
+{
+	position: relative;
+}
+.hr
+{
+	color: black;
+	height: 2px;
+	width: 100%;
+}
+.img1
+{
+	margin-top:25px;
+	margin-left:10px;
+}
+.text1
+{
+	margin-left: 10px;
+}
